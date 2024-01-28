@@ -103,5 +103,14 @@
     .text-container {
       text-align: justify;
     }
+    .article-container {
+      display: flex;
+      text-align: initial;
+      flex-wrap: wrap;
+      flex-direction: row;
+      gap: 2.5rem;
+      justify-content: space-around;
+    }
+    
   }
   
